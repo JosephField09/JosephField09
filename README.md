@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Joseph<br><br>I am currently studying computer science at Aton University, with a key interest in software engineering and web development<br/>
+Hi, I'm Joseph<br><br>I am currently studying computer science at Aston University, with a key interest in software engineering and web development<br/>
 
 
 ## 🌐 Socials:
